@@ -59,7 +59,7 @@ Carthage/Checkouts
 # R.swift
 #
 # to prevent unnecessary conflicts.
-*.generated.swift
+R.generated.swift
 
 # fastlane
 #
